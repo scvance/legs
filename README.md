@@ -18,3 +18,8 @@ RN the code just reads from all motors and sensors. No walking code is uploaded 
 - 2 medium EV3 servo motors
 - 3 sn754410 motor drivers
 - capacitors <-- include the rest later.
+
+## Dependencies
+- Wire.h
+- MPU6050.h
+- PWFusion_TCA9548A.h
