@@ -10,8 +10,8 @@ I'll also stick a wiring diagram up there too.
 RN the code just reads from all motors and sensors. No walking code is uploaded yet.
 
 ## parts list
-Arduino Mega Pro
-Arduino Nano
+Arduino Mega Pro \n
+Arduino Nano \n
 7 MPU-6050
 TCA9548A multiplexer
 4 large NXT/EV3 servo motors
