@@ -9,7 +9,7 @@ I'll also stick a wiring diagram up there too.
 
 RN the code just reads from all motors and sensors. No walking code is uploaded yet.
 
-# parts list:
+## parts list:
 Arduino Mega Pro
 Arduino Nano
 7 MPU-6050
